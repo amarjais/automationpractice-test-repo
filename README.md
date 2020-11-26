@@ -13,7 +13,7 @@ This project is created on :
 
 ## Usage
 
-- Clone the repository and use command: git init
+- Clone the repository and use command : git init
 - To run the execution, run it with command : npm run test
 - After execution is completed, generate report with : npm run report
 - Default browser for automation : Chrome
